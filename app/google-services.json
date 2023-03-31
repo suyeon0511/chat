@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "835985714002",
+    "firebase_url": "https://talk0-8dda2-default-rtdb.firebaseio.com",
+    "project_id": "talk0-8dda2",
+    "storage_bucket": "talk0-8dda2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835985714002:android:c7423aa7220f78076ae88b",
+        "android_client_info": {
+          "package_name": "com.example.asdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835985714002-3lj3bssh8d5294h5sepd0ct7qiol7a5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQnR1-o61nx7iUDiPkCkctUEjiTAb6GGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835985714002-3lj3bssh8d5294h5sepd0ct7qiol7a5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835985714002:android:c4e2417903f85d166ae88b",
+        "android_client_info": {
+          "package_name": "com.example.talk0"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835985714002-3lj3bssh8d5294h5sepd0ct7qiol7a5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQnR1-o61nx7iUDiPkCkctUEjiTAb6GGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835985714002-3lj3bssh8d5294h5sepd0ct7qiol7a5m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
